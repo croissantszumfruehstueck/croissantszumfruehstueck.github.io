@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+*{margin: 0;
+padding: 0;}
+
+h1 {color: rgb(255, 94, 207);
+font-family: "Oswald" 
+}
+
+p{margin: 20px;
+    font-family: "Oswald";
+}
+
+#regel {
+    color: salmon;
+    opacity: 100;
+    background-image: url("../IMG_6043.jpg");
+
+}
+div{background-color: sandybrown;
+    border:10px skyblue groove;
+    width: 120px;
+    height: 40px;
+    margin: 40px;
+
+}
